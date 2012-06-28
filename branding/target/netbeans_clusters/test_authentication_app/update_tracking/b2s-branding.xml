@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="b2s.branding">
+    <module_version install_time="1340472740337" last="true" origin="installer" specification_version="0.1">
+        <file crc="3620138861" name="config/Modules/b2s-branding.xml"/>
+        <file crc="231103592" name="core/locale/core_test_authentication_app.jar"/>
+        <file crc="2972275169" name="modules/b2s-branding.jar"/>
+        <file crc="831412172" name="modules/locale/org-netbeans-core-windows_test_authentication_app.jar"/>
+        <file crc="2803046334" name="modules/locale/org-netbeans-core_test_authentication_app.jar"/>
+    </module_version>
+</module>
